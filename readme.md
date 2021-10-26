@@ -1,6 +1,10 @@
 # Validation Free and Replication Robust Volume-based Data Valuation
 
-This repository is the official implementation of the paper submiited to NeurIPS 2021.
+This repository is the official implementation of the following paper accepted by the Thirty-fifth Conference on Neural Information Processing Systems (NeurIPS) 2021:
+
+> Xinyi Xu*, Zhaoxuan Wu*, Chuan Sheng Foo, Bryan Kian Hsiang Low
+>
+> Validation Free and Replication Robust Volume-based Data Valuation
 
 ## Requirements
 
