@@ -4,7 +4,7 @@ This repository is the official implementation of the following paper accepted b
 
 > Xinyi Xu*, Zhaoxuan Wu*, Chuan Sheng Foo, Bryan Kian Hsiang Low
 >
-> Validation Free and Replication Robust Volume-based Data Valuation
+> Validation Free and Replication Robust Volume-based Data Valuation [paper](https://proceedings.neurips.cc/paper/2021/hash/59a3adea76fadcb6dd9e54c96fc155d1-Abstract.html)
 
 ## Requirements
 
@@ -34,3 +34,19 @@ Most of the code for plotting figures can be found in the following jupyter note
 Code for all other experiments used in the paper can be found unber the following directories:
 - [robustness experiments](robustness%20experiments/)
 - [other experiments](other%20experiments/)
+
+## Citing
+If you have found our work to be useful in your research, please consider citing it with the following bibtex:
+```
+@inproceedings{Xu2021,
+ author = {Xu, Xinyi and Wu, Zhaoxuan and Foo, Chuan Sheng and Low, Bryan Kian Hsiang},
+ booktitle = {Advances in Neural Information Processing Systems},
+ editor = {M. Ranzato and A. Beygelzimer and Y. Dauphin and P.S. Liang and J. Wortman Vaughan},
+ pages = {10837--10848},
+ publisher = {Curran Associates, Inc.},
+ title = {Validation Free and Replication Robust Volume-based Data Valuation},
+ volume = {34},
+ year = {2021}
+}
+
+```
